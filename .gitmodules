@@ -1,0 +1,3 @@
+[submodule "core-js-strigs"]
+	path = core-js-strigs
+	url = https://github.com/AnngryBunny/core-js-strings.git
